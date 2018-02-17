@@ -64,7 +64,7 @@ data.head(10)
 
 
 # In[39]:
-
+# Removing stop words
 import string
 def text_process(text):
     
